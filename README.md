@@ -48,7 +48,7 @@
   </a>
   <a href="https://www.microsoft.com/" target="_blank">
     <img
-      src="logo_c_sharp.svg"
+      src="icons/logo_c_sharp.svg"
       alt="c#"
       width="40"
       height="40"
