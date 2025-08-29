@@ -4,22 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoLovisaro&layout=compact&theme=vue-dark&title_color=03D361&bg_color=21262d"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=HugoLovisaro&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=vue-dark&title_color=03D361&bg_color=21262d"
-    />
-  </a>
-</p>
-
 <div align="center">
 
 ![](https://raw.githubusercontent.com/HugoLovisaro/HugoLovisaro/output/github-contribution-grid-snake.svg)
