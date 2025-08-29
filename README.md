@@ -46,6 +46,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img
+      src="logo_c_sharp.svg.svg"
+      alt="c#"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="icons/docker-original-wordmark.svg"
